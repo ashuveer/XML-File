@@ -1,0 +1,31 @@
+.book-title {
+    color: gray;
+    font-weight: bold;
+  }
+  
+  .book-author {
+    color: greenyellow;
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+  
+  .book-isbn {
+    font-style: italic;
+    color: blue;
+  }
+  
+  .book-publisher {
+    font-size: 14px;
+    color: blue;
+  }
+  
+  .book-edition {
+    text-transform: uppercase;
+    color: blue;
+  }
+  
+  .book-price {
+    font-size: 10px;
+    color: green;
+  }
+  
